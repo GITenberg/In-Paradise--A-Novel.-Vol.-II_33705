@@ -17,6 +17,8 @@ creator:
     - http://de.wikipedia.org/wiki/Paul_Heyse
     - http://en.wikipedia.org/wiki/Paul_Heyse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33705#In-Paradise--A-Novel.-Vol.-II
 gutenberg_issued: '2010-09-12'
 gutenberg_type: Text
 identifiers:
