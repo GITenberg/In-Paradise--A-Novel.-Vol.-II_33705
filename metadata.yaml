@@ -1,0 +1,32 @@
+_repo: In-Paradise--A-Novel.-Vol.-II_33705
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heyse, Paul
+    aliases:
+    - Heise, Paul
+    - Heyse, Paul Johann Ludwig von
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '1121'
+    url: http://www.gutenberg.org/2009/agents/1121
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Paul_Heyse
+    - http://en.wikipedia.org/wiki/Paul_Heyse
+description: ''
+gutenberg_issued: '2010-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33705'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German fiction -- Translations into English'
+title: 'In Paradise: A Novel. Vol. II'
+url: http://www.gutenberg.org/ebooks/33705
